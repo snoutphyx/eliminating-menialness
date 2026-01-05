@@ -37,7 +37,7 @@ Send "`tIntervencija"
 Sleep 500
 Send "`t"
 Sleep 500
-Send "016327114 / 0913189133"
+Send "*phone*"
 Sleep 500
 Send "`t"
 Sleep 500
@@ -51,5 +51,6 @@ Send "`t`t"
 Sleep 1000
 Send "Optička infrastruktura`t"
 Sleep 1000
+
 
 ExitApp
